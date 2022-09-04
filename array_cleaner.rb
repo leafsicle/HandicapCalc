@@ -1,6 +1,6 @@
 def array_cleaner(scoresArr)
   arrLength = scoresArr.length
-  puts arrLength
+
   case arrLength
   when 0..3
       []
